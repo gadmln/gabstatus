@@ -12,6 +12,8 @@ sites:
     url: https://trends.gab.com
   - name: Dissenter
     url: https://dissenter.com
+  - name: E2EE Chat (chat.gab.com)
+    url: https://chat.gab.com
 
 
 status-website:
