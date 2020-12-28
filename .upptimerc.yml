@@ -4,11 +4,11 @@ repo: gabstatus # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Gab Social
+  - name: Social
     url: https://gab.com
-  - name: Gab TV
+  - name: TV
     url: https://tv.gab.com
-  - name: Gab Trends
+  - name: Trends
     url: https://trends.gab.com
   - name: Dissenter
     url: https://dissenter.com
@@ -20,7 +20,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://gab.com/packs/media/images/logo_full-1d09d89417123f64477eaade5ec4e1f9.png
-  name: Upptime
+  name: System Status
 
   navbar:
     - title: Status
