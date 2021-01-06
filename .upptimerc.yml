@@ -12,6 +12,10 @@ sites:
     url: https://trends.gab.com
   - name: Dissenter
     url: https://dissenter.com
+  - name: Gab Shop
+    url: https://shop.dissenter.com
+  - name: Gab PRO
+    url: https://pro.gab.com
   - name: Gab News
     url: https://news.gab.com
   - name: E2EE Chat (chat.gab.com)
