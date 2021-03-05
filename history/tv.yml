@@ -1,7 +1,7 @@
 url: https://tv.gab.com
-status: up
-code: 200
-responseTime: 1913
-lastUpdated: 2021-03-04T23:22:01.891Z
+status: down
+code: 502
+responseTime: 2995
+lastUpdated: 2021-03-05T05:55:24.421Z
 startTime: Mon Dec 28 2020 12:44:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
