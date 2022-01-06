@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/gab.com",
     "slug": "social",
     "status": "up",
-    "uptime": "97.45%",
+    "uptime": "97.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.35%",
     "uptimeYear": "97.40%",
-    "time": 860,
-    "timeDay": 212,
-    "timeWeek": 256,
-    "timeMonth": 217,
+    "time": 859,
+    "timeDay": 428,
+    "timeWeek": 258,
+    "timeMonth": 224,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2021-12-06": 724,
@@ -61,10 +61,10 @@
     "uptimeMonth": "98.35%",
     "uptimeYear": "99.71%",
     "time": 814,
-    "timeDay": 767,
-    "timeWeek": 793,
-    "timeMonth": 755,
-    "timeYear": 811,
+    "timeDay": 661,
+    "timeWeek": 727,
+    "timeMonth": 759,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2021-12-06": 724,
       "2021-05-10": 38,
@@ -81,8 +81,7 @@
       "2021-03-02": 16,
       "2021-02-15": 16,
       "2021-02-11": 21,
-      "2021-02-05": 24,
-      "2021-01-06": 50
+      "2021-02-05": 24
     }
   },
   {
@@ -91,15 +90,15 @@
     "icon": "https://favicons.githubusercontent.com/trends.gab.com",
     "slug": "trends",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.35%",
     "uptimeYear": "99.40%",
     "time": 405,
-    "timeDay": 155,
-    "timeWeek": 436,
-    "timeMonth": 422,
+    "timeDay": 507,
+    "timeWeek": 429,
+    "timeMonth": 431,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2021-12-06": 724,
@@ -112,8 +111,7 @@
       "2021-01-13": 26,
       "2021-01-12": 222,
       "2021-01-10": 177,
-      "2021-01-09": 97,
-      "2021-01-06": 65
+      "2021-01-09": 97
     }
   },
   {
@@ -128,10 +126,10 @@
     "uptimeMonth": "98.35%",
     "uptimeYear": "99.59%",
     "time": 366,
-    "timeDay": 143,
-    "timeWeek": 480,
-    "timeMonth": 421,
-    "timeYear": 362,
+    "timeDay": 534,
+    "timeWeek": 482,
+    "timeMonth": 431,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2021-12-06": 724,
       "2021-05-09": 37,
@@ -156,9 +154,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.72%",
     "time": 704,
-    "timeDay": 498,
+    "timeDay": 781,
     "timeWeek": 638,
-    "timeMonth": 645,
+    "timeMonth": 653,
     "timeYear": 704,
     "dailyMinutesDown": {
       "2022-01-01": 25,
@@ -188,8 +186,7 @@
       "2021-02-04": 31,
       "2021-02-01": 29,
       "2021-01-29": 28,
-      "2021-01-18": 80,
-      "2021-01-06": 99
+      "2021-01-18": 80
     }
   },
   {
@@ -203,11 +200,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.35%",
     "uptimeYear": "99.50%",
-    "time": 302,
-    "timeDay": 139,
-    "timeWeek": 366,
-    "timeMonth": 315,
-    "timeYear": 302,
+    "time": 303,
+    "timeDay": 518,
+    "timeWeek": 371,
+    "timeMonth": 327,
+    "timeYear": 303,
     "dailyMinutesDown": {
       "2021-12-06": 724,
       "2021-01-20": 256,
@@ -225,15 +222,15 @@
     "icon": "https://favicons.githubusercontent.com/news.gab.com",
     "slug": "gab-news",
     "status": "up",
-    "uptime": "98.17%",
+    "uptime": "98.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.35%",
     "uptimeYear": "98.15%",
-    "time": 450,
-    "timeDay": 450,
-    "timeWeek": 435,
-    "timeMonth": 417,
+    "time": 449,
+    "timeDay": 429,
+    "timeWeek": 422,
+    "timeMonth": 422,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2021-12-06": 724,
@@ -250,8 +247,7 @@
       "2021-01-13": 188,
       "2021-01-12": 222,
       "2021-01-10": 177,
-      "2021-01-09": 97,
-      "2021-01-06": 27
+      "2021-01-09": 97
     }
   },
   {
@@ -265,11 +261,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.35%",
     "uptimeYear": "99.50%",
-    "time": 428,
-    "timeDay": 216,
-    "timeWeek": 217,
-    "timeMonth": 374,
-    "timeYear": 431,
+    "time": 427,
+    "timeDay": 231,
+    "timeWeek": 219,
+    "timeMonth": 364,
+    "timeYear": 430,
     "dailyMinutesDown": {
       "2021-12-06": 724,
       "2021-12-02": 77,
