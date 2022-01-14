@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/gab.com",
     "slug": "social",
     "status": "up",
-    "uptime": "97.50%",
+    "uptime": "97.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.59%",
-    "time": 850,
-    "timeDay": 190,
-    "timeWeek": 218,
-    "timeMonth": 239,
-    "timeYear": 674,
+    "uptimeYear": "97.85%",
+    "time": 848,
+    "timeDay": 193,
+    "timeWeek": 183,
+    "timeMonth": 230,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2021-12-06": 724,
       "2021-08-03": 26,
@@ -39,8 +39,7 @@
       "2021-01-18": 261,
       "2021-01-17": 197,
       "2021-01-16": 541,
-      "2021-01-15": 69,
-      "2021-01-14": 365
+      "2021-01-15": 69
     }
   },
   {
@@ -55,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 819,
-    "timeDay": 909,
-    "timeWeek": 1143,
-    "timeMonth": 845,
+    "timeDay": 948,
+    "timeWeek": 1181,
+    "timeMonth": 849,
     "timeYear": 767,
     "dailyMinutesDown": {
       "2021-12-06": 724,
@@ -90,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
     "time": 407,
-    "timeDay": 461,
-    "timeWeek": 473,
-    "timeMonth": 464,
+    "timeDay": 443,
+    "timeWeek": 443,
+    "timeMonth": 449,
     "timeYear": 416,
     "dailyMinutesDown": {
       "2021-12-06": 724,
@@ -100,8 +99,7 @@
       "2021-12-02": 19,
       "2021-06-03": 500,
       "2021-01-20": 172,
-      "2021-01-19": 1024,
-      "2021-01-14": 93
+      "2021-01-19": 1024
     }
   },
   {
@@ -116,15 +114,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 368,
-    "timeDay": 488,
-    "timeWeek": 467,
-    "timeMonth": 471,
-    "timeYear": 360,
+    "timeDay": 501,
+    "timeWeek": 460,
+    "timeMonth": 469,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2021-12-06": 724,
       "2021-05-09": 37,
-      "2021-01-19": 762,
-      "2021-01-14": 93
+      "2021-01-19": 762
     }
   },
   {
@@ -139,10 +136,10 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.73%",
     "time": 705,
-    "timeDay": 722,
-    "timeWeek": 738,
-    "timeMonth": 674,
-    "timeYear": 710,
+    "timeDay": 760,
+    "timeWeek": 744,
+    "timeMonth": 677,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2022-01-10": 30,
       "2022-01-01": 25,
@@ -187,15 +184,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 304,
-    "timeDay": 421,
-    "timeWeek": 348,
-    "timeMonth": 363,
+    "timeDay": 379,
+    "timeWeek": 345,
+    "timeMonth": 361,
     "timeYear": 314,
     "dailyMinutesDown": {
       "2021-12-06": 724,
       "2021-01-20": 256,
-      "2021-01-19": 1023,
-      "2021-01-14": 93
+      "2021-01-19": 1023
     }
   },
   {
@@ -204,16 +200,16 @@
     "icon": "https://favicons.githubusercontent.com/news.gab.com",
     "slug": "gab-news",
     "status": "up",
-    "uptime": "98.21%",
+    "uptime": "98.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.26%",
-    "time": 448,
-    "timeDay": 476,
-    "timeWeek": 391,
+    "uptimeYear": "98.29%",
+    "time": 449,
+    "timeDay": 501,
+    "timeWeek": 403,
     "timeMonth": 445,
-    "timeYear": 467,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2021-12-06": 724,
       "2021-02-15": 454,
@@ -224,8 +220,7 @@
       "2021-01-22": 1381,
       "2021-01-21": 1440,
       "2021-01-20": 1440,
-      "2021-01-19": 1023,
-      "2021-01-14": 112
+      "2021-01-19": 1023
     }
   },
   {
@@ -239,17 +234,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
-    "time": 424,
-    "timeDay": 197,
-    "timeWeek": 201,
-    "timeMonth": 277,
+    "time": 423,
+    "timeDay": 213,
+    "timeWeek": 197,
+    "timeMonth": 262,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2021-12-06": 724,
       "2021-12-02": 77,
       "2021-01-20": 172,
-      "2021-01-19": 1023,
-      "2021-01-14": 93
+      "2021-01-19": 1023
     }
   }
 ]
