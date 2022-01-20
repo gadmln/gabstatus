@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/gab.com",
     "slug": "social",
     "status": "up",
-    "uptime": "97.54%",
+    "uptime": "97.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.12%",
-    "time": 842,
-    "timeDay": 227,
-    "timeWeek": 223,
-    "timeMonth": 226,
-    "timeYear": 535,
+    "uptimeYear": "98.34%",
+    "time": 840,
+    "timeDay": 87,
+    "timeWeek": 208,
+    "timeMonth": 221,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2021-12-06": 724,
       "2021-08-03": 26,
@@ -33,8 +33,7 @@
       "2021-01-24": 24,
       "2021-01-23": 924,
       "2021-01-22": 1381,
-      "2021-01-21": 1440,
-      "2021-01-20": 1440
+      "2021-01-21": 1440
     }
   },
   {
@@ -48,11 +47,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 820,
-    "timeDay": 684,
-    "timeWeek": 888,
-    "timeMonth": 869,
-    "timeYear": 771,
+    "time": 821,
+    "timeDay": 1252,
+    "timeWeek": 937,
+    "timeMonth": 878,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2021-12-06": 724,
       "2021-05-10": 38,
@@ -78,22 +77,21 @@
     "icon": "https://favicons.githubusercontent.com/trends.gab.com",
     "slug": "trends",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.74%",
     "time": 406,
-    "timeDay": 122,
-    "timeWeek": 400,
-    "timeMonth": 443,
-    "timeYear": 420,
+    "timeDay": 224,
+    "timeWeek": 366,
+    "timeMonth": 437,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2021-12-06": 724,
       "2021-12-03": 27,
       "2021-12-02": 19,
-      "2021-06-03": 500,
-      "2021-01-20": 172
+      "2021-06-03": 500
     }
   },
   {
@@ -106,11 +104,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.71%",
+    "uptimeYear": "99.86%",
     "time": 368,
-    "timeDay": 220,
-    "timeWeek": 439,
-    "timeMonth": 455,
+    "timeDay": 191,
+    "timeWeek": 397,
+    "timeMonth": 443,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2021-12-06": 724,
@@ -129,10 +127,10 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.75%",
     "time": 705,
-    "timeDay": 476,
-    "timeWeek": 741,
-    "timeMonth": 704,
-    "timeYear": 717,
+    "timeDay": 528,
+    "timeWeek": 713,
+    "timeMonth": 699,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2022-01-10": 30,
       "2022-01-01": 25,
@@ -174,15 +172,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.62%",
-    "time": 304,
-    "timeDay": 152,
-    "timeWeek": 335,
-    "timeMonth": 360,
-    "timeYear": 318,
+    "uptimeYear": "99.83%",
+    "time": 303,
+    "timeDay": 122,
+    "timeWeek": 292,
+    "timeMonth": 352,
+    "timeYear": 320,
     "dailyMinutesDown": {
-      "2021-12-06": 724,
-      "2021-01-20": 256
+      "2021-12-06": 724
     }
   },
   {
@@ -195,12 +192,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.31%",
-    "time": 448,
-    "timeDay": 215,
-    "timeWeek": 416,
-    "timeMonth": 441,
-    "timeYear": 380,
+    "uptimeYear": "98.52%",
+    "time": 447,
+    "timeDay": 206,
+    "timeWeek": 378,
+    "timeMonth": 429,
+    "timeYear": 381,
     "dailyMinutesDown": {
       "2021-12-06": 724,
       "2021-02-15": 454,
@@ -209,8 +206,7 @@
       "2021-01-24": 24,
       "2021-01-23": 918,
       "2021-01-22": 1381,
-      "2021-01-21": 1440,
-      "2021-01-20": 1440
+      "2021-01-21": 1440
     }
   },
   {
@@ -223,16 +219,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.62%",
-    "time": 421,
-    "timeDay": 221,
-    "timeWeek": 211,
-    "timeMonth": 214,
-    "timeYear": 426,
+    "uptimeYear": "99.83%",
+    "time": 420,
+    "timeDay": 201,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2021-12-06": 724,
-      "2021-12-02": 77,
-      "2021-01-20": 172
+      "2021-12-02": 77
     }
   }
 ]
