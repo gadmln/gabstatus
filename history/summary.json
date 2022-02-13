@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/gab.com",
     "slug": "social",
     "status": "up",
-    "uptime": "97.68%",
+    "uptime": "97.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
-    "time": 782,
-    "timeDay": 450,
-    "timeWeek": 280,
+    "time": 776,
+    "timeDay": 191,
+    "timeWeek": 259,
     "timeMonth": 262,
-    "timeYear": 430,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2021-12-06": 724,
       "2021-08-03": 26,
@@ -25,8 +25,7 @@
       "2021-03-03": 24,
       "2021-02-20": 263,
       "2021-02-19": 32,
-      "2021-02-15": 454,
-      "2021-02-13": 22
+      "2021-02-15": 454
     }
   },
   {
@@ -40,10 +39,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 840,
-    "timeDay": 613,
-    "timeWeek": 1224,
-    "timeMonth": 1145,
+    "time": 839,
+    "timeDay": 403,
+    "timeWeek": 1206,
+    "timeMonth": 1129,
     "timeYear": 797,
     "dailyMinutesDown": {
       "2021-12-06": 724,
@@ -74,9 +73,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.75%",
     "time": 407,
-    "timeDay": 510,
+    "timeDay": 380,
     "timeWeek": 463,
-    "timeMonth": 409,
+    "timeMonth": 407,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2022-02-10": 32,
@@ -98,8 +97,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.85%",
     "time": 372,
-    "timeDay": 480,
-    "timeWeek": 482,
+    "timeDay": 485,
+    "timeWeek": 486,
     "timeMonth": 434,
     "timeYear": 378,
     "dailyMinutesDown": {
@@ -120,10 +119,10 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.76%",
     "time": 704,
-    "timeDay": 776,
-    "timeWeek": 720,
-    "timeMonth": 699,
-    "timeYear": 735,
+    "timeDay": 780,
+    "timeWeek": 800,
+    "timeMonth": 700,
+    "timeYear": 736,
     "dailyMinutesDown": {
       "2022-01-25": 50,
       "2022-01-10": 30,
@@ -148,8 +147,7 @@
       "2021-03-12": 21,
       "2021-03-07": 33,
       "2021-03-03": 40,
-      "2021-02-27": 20,
-      "2021-02-13": 20
+      "2021-02-27": 20
     }
   },
   {
@@ -164,9 +162,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 306,
-    "timeDay": 436,
-    "timeWeek": 420,
-    "timeMonth": 341,
+    "timeDay": 346,
+    "timeWeek": 408,
+    "timeMonth": 338,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2021-12-06": 724
@@ -178,14 +176,14 @@
     "icon": "https://favicons.githubusercontent.com/news.gab.com",
     "slug": "gab-news",
     "status": "up",
-    "uptime": "98.34%",
+    "uptime": "98.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 446,
     "timeDay": 483,
-    "timeWeek": 427,
+    "timeWeek": 439,
     "timeMonth": 414,
     "timeYear": 377,
     "dailyMinutesDown": {
@@ -205,10 +203,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 430,
-    "timeDay": 636,
-    "timeWeek": 655,
-    "timeMonth": 508,
-    "timeYear": 452,
+    "timeDay": 656,
+    "timeWeek": 659,
+    "timeMonth": 522,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2021-12-06": 724,
       "2021-12-02": 77
