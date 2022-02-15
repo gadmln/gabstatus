@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
-    "time": 776,
-    "timeDay": 403,
-    "timeWeek": 287,
-    "timeMonth": 268,
+    "time": 771,
+    "timeDay": 198,
+    "timeWeek": 290,
+    "timeMonth": 269,
     "timeYear": 431,
     "dailyMinutesDown": {
       "2021-12-06": 724,
@@ -24,8 +24,7 @@
       "2021-03-08": 215,
       "2021-03-03": 24,
       "2021-02-20": 263,
-      "2021-02-19": 32,
-      "2021-02-15": 454
+      "2021-02-19": 32
     }
   },
   {
@@ -40,9 +39,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 839,
-    "timeDay": 784,
-    "timeWeek": 1200,
-    "timeMonth": 1124,
+    "timeDay": 671,
+    "timeWeek": 1117,
+    "timeMonth": 1119,
     "timeYear": 796,
     "dailyMinutesDown": {
       "2021-12-06": 724,
@@ -57,8 +56,7 @@
       "2021-03-09": 19,
       "2021-03-07": 22,
       "2021-03-05": 20,
-      "2021-03-02": 16,
-      "2021-02-15": 16
+      "2021-03-02": 16
     }
   },
   {
@@ -73,10 +71,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.75%",
     "time": 407,
-    "timeDay": 536,
-    "timeWeek": 465,
-    "timeMonth": 410,
-    "timeYear": 411,
+    "timeDay": 535,
+    "timeWeek": 471,
+    "timeMonth": 409,
+    "timeYear": 412,
     "dailyMinutesDown": {
       "2022-02-10": 32,
       "2021-12-06": 724,
@@ -97,10 +95,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.85%",
     "time": 373,
-    "timeDay": 539,
-    "timeWeek": 480,
+    "timeDay": 537,
+    "timeWeek": 483,
     "timeMonth": 435,
-    "timeYear": 379,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2022-02-10": 32,
       "2021-12-06": 724,
@@ -119,10 +117,10 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.76%",
     "time": 705,
-    "timeDay": 883,
-    "timeWeek": 811,
-    "timeMonth": 704,
-    "timeYear": 738,
+    "timeDay": 918,
+    "timeWeek": 853,
+    "timeMonth": 707,
+    "timeYear": 739,
     "dailyMinutesDown": {
       "2022-01-25": 50,
       "2022-01-10": 30,
@@ -161,11 +159,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 306,
-    "timeDay": 384,
-    "timeWeek": 399,
-    "timeMonth": 339,
-    "timeYear": 327,
+    "time": 307,
+    "timeDay": 420,
+    "timeWeek": 414,
+    "timeMonth": 340,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2021-12-06": 724
     }
@@ -176,19 +174,18 @@
     "icon": "https://favicons.githubusercontent.com/news.gab.com",
     "slug": "gab-news",
     "status": "up",
-    "uptime": "98.35%",
+    "uptime": "98.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 446,
-    "timeDay": 433,
-    "timeWeek": 437,
-    "timeMonth": 412,
+    "timeDay": 444,
+    "timeWeek": 444,
+    "timeMonth": 411,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2021-12-06": 724,
-      "2021-02-15": 454
+      "2021-12-06": 724
     }
   },
   {
@@ -203,10 +200,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 431,
-    "timeDay": 631,
-    "timeWeek": 659,
-    "timeMonth": 536,
-    "timeYear": 455,
+    "timeDay": 651,
+    "timeWeek": 655,
+    "timeMonth": 550,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2021-12-06": 724,
       "2021-12-02": 77
