@@ -1,7 +1,7 @@
 url: https://gab.com
-status: up
-code: 200
-responseTime: 183
-lastUpdated: 2022-07-12T23:22:00.711Z
+status: down
+code: 502
+responseTime: 126
+lastUpdated: 2022-07-13T08:10:41.252Z
 startTime: Mon Dec 28 2020 12:44:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
