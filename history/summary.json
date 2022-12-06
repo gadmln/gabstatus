@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/gab.com.ico",
     "slug": "social",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "98.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 404,
-    "timeDay": 163,
-    "timeWeek": 166,
+    "time": 402,
+    "timeDay": 180,
+    "timeWeek": 172,
     "timeMonth": 171,
     "timeYear": 367,
     "dailyMinutesDown": {
@@ -27,8 +27,7 @@
       "2022-04-26": 66,
       "2022-04-04": 112,
       "2022-03-22": 17,
-      "2022-03-05": 103,
-      "2021-12-06": 724
+      "2022-03-05": 103
     }
   },
   {
@@ -43,15 +42,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 718,
-    "timeDay": 587,
-    "timeWeek": 663,
-    "timeMonth": 540,
-    "timeYear": 722,
+    "timeDay": 634,
+    "timeWeek": 675,
+    "timeMonth": 546,
+    "timeYear": 723,
     "dailyMinutesDown": {
       "2022-08-31": 31,
       "2022-07-01": 62,
-      "2022-06-21": 29,
-      "2021-12-06": 724
+      "2022-06-21": 29
     }
   },
   {
@@ -66,9 +64,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
     "time": 395,
-    "timeDay": 340,
-    "timeWeek": 276,
-    "timeMonth": 363,
+    "timeDay": 463,
+    "timeWeek": 320,
+    "timeMonth": 364,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2022-10-28": 92,
@@ -81,8 +79,7 @@
       "2022-06-30": 47,
       "2022-06-29": 25,
       "2022-06-21": 29,
-      "2022-02-10": 32,
-      "2021-12-06": 724
+      "2022-02-10": 32
     }
   },
   {
@@ -96,10 +93,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.22%",
-    "time": 342,
-    "timeDay": 165,
-    "timeWeek": 218,
-    "timeMonth": 259,
+    "time": 341,
+    "timeDay": 223,
+    "timeWeek": 229,
+    "timeMonth": 257,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2022-10-28": 91,
@@ -113,8 +110,7 @@
       "2022-06-30": 47,
       "2022-06-29": 25,
       "2022-06-21": 28,
-      "2022-02-10": 32,
-      "2021-12-06": 724
+      "2022-02-10": 32
     }
   },
   {
@@ -124,15 +120,15 @@
     "slug": "gab-shop",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "90.65%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.66%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.81%",
-    "time": 668,
-    "timeDay": 265,
+    "time": 667,
+    "timeDay": 237,
     "timeWeek": 325,
-    "timeMonth": 376,
-    "timeYear": 605,
+    "timeMonth": 368,
+    "timeYear": 604,
     "dailyMinutesDown": {
       "2022-12-04": 135,
       "2022-07-01": 62,
@@ -164,16 +160,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 330,
-    "timeDay": 145,
-    "timeWeek": 256,
-    "timeMonth": 319,
+    "timeDay": 152,
+    "timeWeek": 259,
+    "timeMonth": 313,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2022-07-06": 31,
       "2022-07-01": 62,
       "2022-06-30": 47,
-      "2022-06-29": 25,
-      "2021-12-06": 724
+      "2022-06-29": 25
     }
   },
   {
@@ -187,10 +182,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 393,
-    "timeDay": 244,
-    "timeWeek": 351,
-    "timeMonth": 407,
+    "time": 392,
+    "timeDay": 254,
+    "timeWeek": 349,
+    "timeMonth": 400,
     "timeYear": 391,
     "dailyMinutesDown": {
       "2022-07-14": 56,
@@ -199,8 +194,7 @@
       "2022-06-29": 25,
       "2022-06-21": 42,
       "2022-06-16": 19,
-      "2022-03-05": 34,
-      "2021-12-06": 724
+      "2022-03-05": 34
     }
   },
   {
@@ -214,11 +208,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.98%",
-    "time": 441,
-    "timeDay": 206,
-    "timeWeek": 274,
-    "timeMonth": 282,
-    "timeYear": 437,
+    "time": 440,
+    "timeDay": 229,
+    "timeWeek": 275,
+    "timeMonth": 281,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2022-07-09": 925,
       "2022-07-08": 387,
@@ -233,8 +227,7 @@
       "2022-06-02": 1440,
       "2022-06-01": 1440,
       "2022-05-31": 572,
-      "2022-05-05": 27,
-      "2021-12-06": 724
+      "2022-05-05": 27
     }
   }
 ]
