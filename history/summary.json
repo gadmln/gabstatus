@@ -127,7 +127,7 @@
     "time": 623,
     "timeDay": 412,
     "timeWeek": 415,
-    "timeMonth": 323,
+    "timeMonth": 324,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2022-12-04": 135,
@@ -200,9 +200,9 @@
     "url": "https://chat.gab.com",
     "icon": "https://icons.duckduckgo.com/ip3/chat.gab.com.ico",
     "slug": "e2-ee-chat-chat-gab-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.12%",
@@ -212,6 +212,7 @@
     "timeMonth": 261,
     "timeYear": 431,
     "dailyMinutesDown": {
+      "2023-01-16": 0,
       "2022-07-09": 925,
       "2022-07-08": 387,
       "2022-07-01": 62,
