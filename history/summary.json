@@ -16,7 +16,7 @@
     "timeMonth": 106,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2024-03-30": 1067,
+      "2024-03-30": 1077,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
@@ -357,7 +357,7 @@
     "timeMonth": 0,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2024-03-30": 1067,
+      "2024-03-30": 1077,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
@@ -801,19 +801,19 @@
     "url": "https://shop.dissenter.com",
     "icon": "https://icons.duckduckgo.com/ip3/shop.dissenter.com.ico",
     "slug": "gab-shop",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 338,
-    "timeDay": 190,
-    "timeWeek": 337,
-    "timeMonth": 305,
-    "timeYear": 342,
+    "timeDay": 210,
+    "timeWeek": 328,
+    "timeMonth": 303,
+    "timeYear": 341,
     "dailyMinutesDown": {
-      "2024-03-30": 0
+      "2024-03-30": 10
     }
   },
   {
@@ -833,7 +833,7 @@
     "timeMonth": 66,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2024-03-30": 1067,
+      "2024-03-30": 1077,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
@@ -1170,7 +1170,7 @@
     "timeMonth": 68,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-03-30": 1067,
+      "2024-03-30": 1077,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
@@ -1507,7 +1507,7 @@
     "timeMonth": 71,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2024-03-30": 1067,
+      "2024-03-30": 1077,
       "2024-03-29": 1440,
       "2024-03-28": 1440,
       "2024-03-27": 1440,
