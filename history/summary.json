@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gab.com.ico",
     "slug": "social",
     "status": "down",
-    "uptime": "57.62%",
+    "uptime": "57.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 105,
-    "timeDay": 160,
-    "timeWeek": 118,
+    "timeDay": 125,
+    "timeWeek": 122,
     "timeMonth": 106,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2025-01-29": 99,
+      "2025-01-30": 98,
+      "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -379,8 +380,7 @@
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
-      "2024-02-01": 1440,
-      "2024-01-31": 1440
+      "2024-02-01": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tv.gab.com.ico",
     "slug": "tv",
     "status": "down",
-    "uptime": "58.23%",
+    "uptime": "58.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2025-01-29": 99,
+      "2025-01-30": 98,
+      "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -763,8 +764,7 @@
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
-      "2024-02-01": 1440,
-      "2024-01-31": 1440
+      "2024-02-01": 1440
     }
   },
   {
@@ -778,11 +778,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.65%",
     "uptimeYear": "99.48%",
-    "time": 803,
-    "timeDay": 574,
-    "timeWeek": 511,
-    "timeMonth": 633,
-    "timeYear": 660,
+    "time": 802,
+    "timeDay": 542,
+    "timeWeek": 523,
+    "timeMonth": 635,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2025-01-11": 590,
       "2024-08-15": 646,
@@ -803,9 +803,9 @@
     "uptimeMonth": "98.66%",
     "uptimeYear": "99.48%",
     "time": 475,
-    "timeDay": 228,
-    "timeWeek": 256,
-    "timeMonth": 348,
+    "timeDay": 241,
+    "timeWeek": 251,
+    "timeMonth": 347,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2025-01-11": 588,
@@ -826,10 +826,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 318,
-    "timeDay": 292,
-    "timeWeek": 299,
-    "timeMonth": 325,
+    "time": 319,
+    "timeDay": 386,
+    "timeWeek": 305,
+    "timeMonth": 329,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2024-11-06": 20,
@@ -842,18 +842,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pro.gab.com.ico",
     "slug": "gab-pro",
     "status": "down",
-    "uptime": "57.93%",
+    "uptime": "57.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 78,
-    "timeDay": 132,
-    "timeWeek": 88,
-    "timeMonth": 93,
+    "time": 79,
+    "timeDay": 151,
+    "timeWeek": 101,
+    "timeMonth": 94,
     "timeYear": 80,
     "dailyMinutesDown": {
-      "2025-01-29": 100,
+      "2025-01-30": 98,
+      "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -1216,8 +1217,7 @@
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
-      "2024-02-01": 1440,
-      "2024-01-31": 1440
+      "2024-02-01": 1440
     }
   },
   {
@@ -1226,18 +1226,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.gab.com.ico",
     "slug": "gab-news",
     "status": "down",
-    "uptime": "57.74%",
+    "uptime": "57.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 79,
-    "timeDay": 67,
-    "timeWeek": 82,
-    "timeMonth": 86,
+    "timeDay": 158,
+    "timeWeek": 96,
+    "timeMonth": 89,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2025-01-29": 100,
+      "2025-01-30": 98,
+      "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -1600,8 +1601,7 @@
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
-      "2024-02-01": 1440,
-      "2024-01-31": 1440
+      "2024-02-01": 1440
     }
   },
   {
@@ -1610,18 +1610,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.gab.com.ico",
     "slug": "e2-ee-chat-chat-gab-com",
     "status": "down",
-    "uptime": "57.72%",
+    "uptime": "57.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 78,
-    "timeDay": 71,
-    "timeWeek": 87,
-    "timeMonth": 85,
+    "timeDay": 79,
+    "timeWeek": 91,
+    "timeMonth": 84,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2025-01-29": 100,
+      "2025-01-30": 99,
+      "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -1984,8 +1985,7 @@
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
-      "2024-02-01": 1440,
-      "2024-01-31": 1440
+      "2024-02-01": 1440
     }
   }
 ]
